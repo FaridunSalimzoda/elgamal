@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\WindowsFormsApp12\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\WindowsFormsApp12\bin\Release\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\WindowsFormsApp12\bin\Release\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\WindowsFormsApp12\bin\Release\MetroFramework.dll
+C:\Users\admin\Desktop\WindowsFormsApp12\bin\Release\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.Form2.resources
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\WindowsFormsApp12\obj\Release\WindowsFormsApp1.pdb
